@@ -1,4 +1,4 @@
-# SAP INSIDE TRACK ROME 2018
-23 June 2018 @ Techedge offices
+# SAP INSIDE TRACK ROME 
+23 June 2018 / Rome - Italy
 
-for all details ——> sitrome.github.io 
+
