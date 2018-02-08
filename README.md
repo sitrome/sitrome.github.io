@@ -1,2 +1,4 @@
-# conference
-Responsive HTML5 Bootstrap 3 template for Event Site
+# SAP INSIDE TRACK ROME 
+23 June 2018 / Rome - Italy
+
+
